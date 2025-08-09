@@ -26,8 +26,7 @@ The goal is to produce a clean, structured SQL table suitable for analysis and v
 ## 🧼 Cleaning Workflow Summary
 
 ### 1. Clone Original Table
-```
-sql
+``` sql
 CREATE TABLE clean
 LIKE dirty;
 ```
